@@ -35,4 +35,6 @@ button.addEventListener('click', () => {
     }
 
     resultsDiv.textContent = `BOH! ${firstName}, you got ${score} out of 3! Get wild to some drum'n'bass!`;
+    
+    
 });
